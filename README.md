@@ -2,6 +2,7 @@
 #### I'm a 4th year Physics student at the University of Nottingham, UK
 
 🥼 I simulated the physics of a [simple quantum gate](https://github.com/OliverDudgeon/QuantumGates) for my 3rd year physics project.
+
 🥼 I am currently researching the synchronisation of qubits with Python. 
 
 I work on the front-end of scientific web apps for [Informatics Matters](https://github.com/InformaticsMatters/) including:
