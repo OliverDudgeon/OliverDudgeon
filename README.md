@@ -1,7 +1,7 @@
 ### Hi, I'm Ollie 👋🏼
 #### I'm a 4th year Physics student at the University of Nottingham, UK
 
-🥼 I simulated the physics of a [simple quantum gate](https://github.com/OliverDudgeon/QuantumGates) for my 3rd year physics project.
+🥼 I simulated the dynamics of a quantum phase gate via coupled Rydberg atoms [simple quantum gate](https://github.com/OliverDudgeon/QuantumGates) for my 3rd year physics project.
 
 🥼 I am currently researching the synchronisation of qubits with Python. 
 
