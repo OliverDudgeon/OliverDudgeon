@@ -1,5 +1,5 @@
 ### Hi, I'm Ollie 👋🏼
-#### I'm a PhD student at The University of Manchester researching open quantum systems. I'm currently looking out tensor network methods.
+#### I'm a PhD student at The University of Manchester researching open quantum systems. I'm currently looking at tensor network methods.
 
 
 🥼 I have researched quantum synchronisation of qubits on the IBM quantum experience for my Masters project. 
